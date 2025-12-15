@@ -1,1 +1,8 @@
+u1,25,100
+u2,30,150
+u3,40,200
+u4,xx,120
+u5,22,80
+
+# user_id, age, total_clicks
 
