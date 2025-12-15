@@ -1,2 +1,3 @@
 pytest  # unit testing framework
+numpy
 
